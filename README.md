@@ -12,7 +12,6 @@ Features:
 4. Determines PhilHealth contributions according to salary brackets
 5. User-friendly Java Swing GUI for easy input and display of results
 6. Provides instant deduction results via pop-up dialogs
-7. Suitable for educational purposes and basic payroll deduction simulation
 
 Things to know:
 1. This project is developed in Java and designed to be opened and run within the NetBeans IDE.
