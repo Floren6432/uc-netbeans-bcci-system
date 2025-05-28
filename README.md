@@ -1,6 +1,6 @@
 # uc-netbeans-bcci-system
 
-This repository contains a Java Swing application that was developed during my second year at university. It calculates employee deductions including Income Tax, SSS, Pag-IBIG, and PhilHealth contributions based on monthly salary input. The program applies government rates and brackets to provide accurate deduction amounts through a simple graphical user interface.
+This repository contains a Java Swing application that was developed during my third year at university. It calculates employee deductions including Income Tax, SSS, Pag-IBIG, and PhilHealth contributions based on monthly salary input. The program applies government rates and brackets to provide accurate deduction amounts through a simple graphical user interface.
 
 Important Note:
 This project is created for educational purposes only and may not reflect the most current or comprehensive tax and deduction regulations.
